@@ -1,0 +1,9 @@
+# 강사용 정답 노트 (공개 저장소에 올리지 않음)
+instructor-notes/
+
+# 각자 직접 받는 Flask 클론 (README 환경 준비 참고)
+subagent-practice-flask/
+
+__pycache__/
+.pytest_cache/
+.DS_Store
