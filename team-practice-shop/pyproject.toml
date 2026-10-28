@@ -1,0 +1,9 @@
+[project]
+name = "team-practice-shop"
+version = "0.1.0"
+description = "에이전트팀 실습용 주문 정산 샘플"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

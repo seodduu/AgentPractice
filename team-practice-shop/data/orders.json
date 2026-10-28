@@ -1,0 +1,14 @@
+[
+  {"order_id": "A-1001", "customer": "kim",  "lines": [{"sku": "KB-01", "qty": 1}, {"sku": "MS-02", "qty": 1}], "coupon_codes": ["WELCOME10"]},
+  {"order_id": "A-1002", "customer": "lee",  "lines": [{"sku": "CB-03", "qty": 2}], "coupon_codes": []},
+  {"order_id": "A-1003", "customer": "park", "lines": [{"sku": "MN-27", "qty": 1}, {"sku": "HS-04", "qty": 1}], "coupon_codes": ["SAVE5000"]},
+  {"order_id": "A-1004", "customer": "choi", "lines": [{"sku": "MP-05", "qty": 1}], "coupon_codes": ["WELCOME10"]},
+  {"order_id": "A-1005", "customer": "jung", "lines": [{"sku": "MN-27", "qty": 1}], "coupon_codes": ["BULK15", "SAVE5000"]},
+  {"order_id": "A-1006", "customer": "kang", "lines": [{"sku": "HS-04", "qty": 1}, {"sku": "CB-03", "qty": 1}], "coupon_codes": ["WELCOME10", "WELCOME10"]},
+  {"order_id": "A-1007", "customer": "yoon", "lines": [{"sku": "KB-01", "qty": 2}], "coupon_codes": []},
+  {"order_id": "A-1008", "customer": "jang", "lines": [{"sku": "MN-27", "qty": 1}, {"sku": "KB-01", "qty": 1}], "coupon_codes": ["BULK15"]},
+  {"order_id": "A-1009", "customer": "lim",  "lines": [{"sku": "MP-05", "qty": 3}, {"sku": "MS-02", "qty": 1}], "coupon_codes": ["SAVE5000"]},
+  {"order_id": "A-1010", "customer": "han",  "lines": [{"sku": "CB-03", "qty": 1}], "coupon_codes": ["NEWYEAR"]},
+  {"order_id": "A-1011", "customer": "oh",   "lines": [{"sku": "HS-04", "qty": 1}], "coupon_codes": ["SAVE5000"]},
+  {"order_id": "A-1012", "customer": "seo",  "lines": [{"sku": "MS-02", "qty": 1}, {"sku": "MP-05", "qty": 1}], "coupon_codes": ["WELCOME10"]}
+]
